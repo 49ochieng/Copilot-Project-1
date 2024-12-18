@@ -1,6 +1,6 @@
 const crypto = require("crypto");
 
-// Define the length of the random string. test
+// Define the length of the random string.
 const KEY_LENGTH = 12;
 
 // Generate random bytes.
