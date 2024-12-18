@@ -15,4 +15,4 @@
         "env-cmd": "^10.1.0"
     },
     "main": "src/functions/*.js"
-} 
+}
